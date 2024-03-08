@@ -13,6 +13,8 @@ This is the Horiseon website, allowing users to find out more about its services
 #### CSS:
 ![Screenshot of simplified code through effective use of class elements](assets/images/Screenshot-simplifiedcode.png)
 
+Please visit the website [here](https://jpquental90.github.io/ChallengeWeek1/)
+
 ## Table of Contents
 
 * [Installation](#installation)
