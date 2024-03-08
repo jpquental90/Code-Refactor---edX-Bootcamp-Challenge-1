@@ -1,4 +1,4 @@
-# ChallengeWeek1
+# Code Refactor
 
 This repository was created to improve the accessibility of the Horiseon website. The code was provided by edX and downloaded from the Module 1 Challenge page of the Front-End Development bootcamp. I learned to simplify code and make it more readable.
 
